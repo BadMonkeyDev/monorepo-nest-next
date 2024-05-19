@@ -4,7 +4,7 @@
   "description": "making monorepo using nestjs + nextjs",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "dev": "pnpm run --parallel dev"
   },
   "repository": {
     "type": "git",
