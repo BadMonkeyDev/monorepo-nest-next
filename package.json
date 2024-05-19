@@ -1,0 +1,27 @@
+{
+  "name": "monorepo-nest-next",
+  "version": "0.0.1",
+  "description": "making monorepo using nestjs + nextjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadMonkeyDev/monorepo-nest-next.git"
+  },
+  "keywords": [
+    "nextjs",
+    "nestjs",
+    "typescript",
+    "monorepo",
+    "reactjs",
+    "javascript"
+  ],
+  "author": "badmonkeydev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BadMonkeyDev/monorepo-nest-next/issues"
+  },
+  "homepage": "https://github.com/BadMonkeyDev/monorepo-nest-next#readme"
+}
